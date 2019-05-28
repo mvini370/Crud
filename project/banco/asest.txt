@@ -1,0 +1,21 @@
+1       Azul
+2	Avianca
+3	Gol
+4	LATAM
+5	Tam
+6	Ford
+
+1	Brasília
+2	Minas-Gerais
+3	Tocantins
+4	Bahia
+5	Maranhão
+6	Estados Unidos
+
+1	Rio de Janeiro
+2	Rio de Janeiro
+3	São Paulo
+4	Rio Grande do Sul
+5	Amazonas
+6	Brasil
+
